@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------
+Features
+--------------------------------------------------------------------------
+
+* This file restore the real weapon names in the buy menu.
+
+* Support Counter-Strike, Condition Zero and Counter-Strike: Source!
+
+
+--------------------------------------------------------------------------
+Released by C3RBERUS
+E-mail: c3rberus@freenet.de
+--------------------------------------------------------------------------
